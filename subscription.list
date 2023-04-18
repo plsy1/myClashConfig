@@ -4,5 +4,3 @@ DOMAIN-SUFFIX,mirusub.com
 DOMAIN-KEYWORD,raw.githubusercontent.com
 DOMAIN-KEYWORD,jsdelivr.net
 
-
-SRC-IP-CIDR,172.31.0.10/32,DIRECT
