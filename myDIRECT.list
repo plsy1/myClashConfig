@@ -1,7 +1,10 @@
 # Downloader
 PROCESS-NAME,rslsync
-PROCESS-NAME-REGEX,qbittorrent*
-PROCESS-NAME-REGEX,Transmission*
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,Transmission
+PROCESS-NAME,Transmission.exe
+PROCESS-NAME,transmission-daemon
 
 
 # Private Tracker
