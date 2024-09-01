@@ -1,3 +1,10 @@
+# Downloader
+PROCESS-NAME,rslsync
+PROCESS-NAME-REGEX,qbittorrent*
+PROCESS-NAME-REGEX,Transmission*
+
+
+# Private Tracker
 DOMAIN-KEYWORD,agsvpt.trackers.work
 DOMAIN-KEYWORD,chdbits.xyz
 DOMAIN-KEYWORD,tracker.leaves.red
@@ -62,3 +69,9 @@ DOMAIN-KEYWORD,discfan.net
 DOMAIN-KEYWORD,tracker.rainbowisland.co
 DOMAIN-KEYWORD,tracker.ptchdbits.co
 DOMAIN-KEYWORD,piggo.me
+
+# Others
+DST-PORT,45678
+DST-PORT,46678
+DST-PORT,20325
+DOMAIN-KEYWORD,mikanani.me
