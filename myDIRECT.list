@@ -10,3 +10,5 @@ PROCESS-NAME,transmission-daemon
 DST-PORT,45678
 DST-PORT,46678
 DST-PORT,20325
+
+DOMAIN-SUFFIX,api.deeplx.org
