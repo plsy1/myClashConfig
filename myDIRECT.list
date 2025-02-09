@@ -1,15 +1,15 @@
 # Downloader
-PROCESS-NAME,rslsync
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,qbittorrent.exe
-PROCESS-NAME,Transmission
-PROCESS-NAME,Transmission.exe
-PROCESS-NAME,transmission-daemon
+# PROCESS-NAME,rslsync
+# PROCESS-NAME,qbittorrent-nox
+# PROCESS-NAME,qbittorrent.exe
+# PROCESS-NAME,Transmission
+# PROCESS-NAME,Transmission.exe
+# PROCESS-NAME,transmission-daemon
 
 # Others
-DST-PORT,45678
-DST-PORT,46678
-DST-PORT,20325
+# DST-PORT,45678
+# DST-PORT,46678
+# DST-PORT,20325
 
 DOMAIN-SUFFIX,api.deeplx.org
 DOMAIN-SUFFIX,linux.do
