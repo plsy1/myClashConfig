@@ -11,6 +11,6 @@
 # DST-PORT,46678
 # DST-PORT,20325
 
-DOMAIN-SUFFIX,api.deeplx.org
-DOMAIN-SUFFIX,linux.do
+# DOMAIN-SUFFIX,api.deeplx.org
+# DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,piggo.me
