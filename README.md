@@ -26,3 +26,6 @@ services:
 
 [direct.txt](https://github.com/plsy1/v2ray-rules-dat/blob/hidden/direct.txt)
 
+# Tools
+
+https://github.com/ChellyL/geosite-list
