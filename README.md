@@ -18,14 +18,8 @@ services:
 
 2. 修改`/base/base/all_base.tpl`
 
-# REJECT
-
-[reject.yaml](https://github.com/plsy1/myClashConfig/blob/main/reject.yaml)
-
-# DIRECT
-
-[direct.txt](https://github.com/plsy1/v2ray-rules-dat/blob/hidden/direct.txt)
-
 # Tools
 
-https://github.com/ChellyL/geosite-list
+https://github.com/ChellyL/geosite-list  
+
+https://github.com/plsy1/v2ray-rules-dat
