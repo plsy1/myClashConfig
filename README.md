@@ -1,7 +1,3 @@
-正常分流 https://github.com/plsy1/v2ray-rules-dat
-
-屏蔽广告 https://github.com/217heidai/adblockfilters
-
 # Configuration
 
 1. 部署 subconverter
