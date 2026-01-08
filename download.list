@@ -1,0 +1,4 @@
+# GitHub Packages / ghcr
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+DOMAIN-SUFFIX,pkg.github.com
+DOMAIN-SUFFIX,ghcr.io
