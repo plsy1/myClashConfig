@@ -1,4 +1,5 @@
-# GitHub Packages / ghcr
+# ghcr
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
-DOMAIN-SUFFIX,pkg.github.com
-DOMAIN-SUFFIX,ghcr.io
+
+# Docker Hub
+DOMAIN-SUFFIX,production.cloudflare.docker.com
