@@ -1,0 +1,5 @@
+# ghcr
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+
+# Docker Hub
+DOMAIN-SUFFIX,production.cloudflare.docker.com
